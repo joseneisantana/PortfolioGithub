@@ -7,6 +7,7 @@ function Testando() {
   return (
     <div>
       <h1>Josenei</h1>
+      <h2>Mais uma</h2>
       <Botao>Clique Aqui</Botao>
     </div>
   )
