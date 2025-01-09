@@ -3,10 +3,12 @@ import styled, { createGlobalStyle } from 'styled-components'
 const EstiloGlobal = createGlobalStyle`
 
 *{
-  margin:0;
-  padding:0;
-  font-family: 'Inter',sans-serif
+  margin:0px;
+  padding:0px;
+  list-style:none;
+  font-family: "Inter", serif;
 
+ 
 }
 body{
   padding-top: 80px;

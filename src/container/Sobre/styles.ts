@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const GithubSecao = styled.div`
-  margin-yp: 32px;
+  margin-top: 32px;
   margin-bottom: 64px;
 
   img {
